@@ -1,0 +1,5 @@
+export { default as NGrid } from 'naive-ui/lib/grid/src/Grid'
+export type { GridProps } from 'naive-ui/lib/grid/src/Grid'
+export { default as NGridItem } from 'naive-ui/lib/grid/src/GridItem'
+export { default as NGi } from 'naive-ui/lib/grid/src/GridItem'
+export type { GridItemProps } from 'naive-ui/lib/grid/src/GridItem'

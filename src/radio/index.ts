@@ -1,0 +1,6 @@
+export { default as NRadio } from 'naive-ui/lib/radio/src/Radio'
+export { default as NRadioGroup } from 'naive-ui/lib/radio/src/RadioGroup'
+export { default as NRadioButton } from 'naive-ui/lib/radio/src/RadioButton'
+export type { RadioProps } from 'naive-ui/lib/radio/src/Radio'
+export type { RadioGroupProps } from 'naive-ui/lib/radio/src/RadioGroup'
+export type { RadioButtonProps } from 'naive-ui/lib/radio/src/RadioButton'

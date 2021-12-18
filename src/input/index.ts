@@ -1,0 +1,7 @@
+export { default as NInput } from 'naive-ui/lib/input/src/Input'
+export type { InputInst } from 'naive-ui/lib/input/src/interface'
+export type { InputProps } from 'naive-ui/lib/input/src/Input'
+export { default as NInputGroup } from 'naive-ui/lib/input/src/InputGroup'
+export { default as NInputGroupLabel } from 'naive-ui/lib/input/src/InputGroupLabel'
+export type { InputGroupProps } from 'naive-ui/lib/input/src/InputGroup'
+export type { InputGroupLabelProps } from 'naive-ui/lib/input/src/InputGroupLabel'
