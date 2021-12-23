@@ -6,7 +6,8 @@ export const enDocRoutes = [
   },
   {
     path: 'introduction-components',
-    component: () => import('../pages/docs/introduction-components/enUS/index.md')
+    component: () =>
+      import('../pages/docs/introduction-components/enUS/index.md')
   },
   {
     path: 'installation',
@@ -78,7 +79,8 @@ export const zhDocRoutes = [
   },
   {
     path: 'introduction-components',
-    component: () => import('../pages/docs/introduction-components/zhCN/index.md')
+    component: () =>
+      import('../pages/docs/introduction-components/zhCN/index.md')
   },
   {
     path: 'installation',
@@ -238,6 +240,10 @@ export const enComponentRoutes = [
   {
     path: 'form',
     component: () => import('../../src/form/demos/enUS/index.demo-entry.md')
+  },
+  {
+    path: 'form-pro',
+    component: () => import('../../src/form-pro/demos/enUS/index.demo-entry.md')
   },
   {
     path: 'tabs',
@@ -587,6 +593,10 @@ export const zhComponentRoutes = [
   {
     path: 'form',
     component: () => import('../../src/form/demos/zhCN/index.demo-entry.md')
+  },
+  {
+    path: 'form-pro',
+    component: () => import('../../src/form-pro/demos/zhCN/index.demo-entry.md')
   },
   {
     path: 'tabs',

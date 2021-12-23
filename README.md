@@ -11,11 +11,11 @@
 
 ## Documentation
 
-[www.naiveui.com](http://www.naiveui.com)
+[www.naiveui.com](http://www.naiveui.com) [点击访问 noviceui](http://static-3c9ed574-77e2-41b9-8667-6fb539c569f3.bspapp.com/novice) Note: because noviceui uses the free default domain name, some browsers will prompt 'security issues'. You need to turn off security browsing in the browser settings to access it normally.
 
 ## Introduce
 
-Novice UI is a component library based on secondary encapsulation of naive UI. Support all functions of naive UI (copy >_<), and some enhanced components will be added later
+Novice UI is a component library based on secondary encapsulation of naive UI. Support all functions of naive UI (copy ^o^), and some enhanced components will be added later
 
 ## Installation
 

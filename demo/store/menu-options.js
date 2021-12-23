@@ -317,6 +317,12 @@ export function createComponentMenuOptions ({ lang, theme, mode }) {
           path: '/form'
         },
         {
+          en: 'FormPro',
+          zh: '表单Pro',
+          enSuffix: true,
+          path: '/form-pro'
+        },
+        {
           en: 'Input',
           zh: '文本输入',
           enSuffix: true,

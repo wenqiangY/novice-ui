@@ -11,11 +11,11 @@
 
 ## 文档
 
-[www.naiveui.com](http://www.naiveui.com)
+[www.naiveui.com](http://www.naiveui.com) [点击访问 noviceui](http://static-3c9ed574-77e2-41b9-8667-6fb539c569f3.bspapp.com/novice) 注意：因为 noviceui 使用的是免费默认域名，部分浏览器会提示‘安全问题’，需要在浏览器设置关闭安全浏览才能正常访问。
 
 ## 介绍
 
-Novice UI 是一个 基于 Naive UI 二次封装的组件库。支持naive-ui的所有功能（Copy >_<），后续会增加一些增强组件
+Novice UI 是一个 基于 Naive UI 二次封装的组件库。支持 naive-ui 的所有功能（Copy ^o^），后续会增加一些增强组件
 
 ## 安装
 

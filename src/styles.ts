@@ -1,4 +1,4 @@
-export { commonDark, commonLight } from 'naive-ui/lib/_styles/common'
+export { commonDark, commonLight } from './_styles/common'
 export { alertDark } from 'naive-ui/lib/alert/styles'
 export { anchorDark } from 'naive-ui/lib/anchor/styles'
 export { autoCompleteDark } from 'naive-ui/lib/auto-complete/styles'
@@ -6,7 +6,10 @@ export { avatarDark } from 'naive-ui/lib/avatar/styles'
 export { backTopDark } from 'naive-ui/lib/back-top/styles'
 export { badgeDark } from 'naive-ui/lib/badge/styles'
 export { breadcrumbDark } from 'naive-ui/lib/breadcrumb/styles'
-export { buttonDark, buttonRtl as unstableButtonRtl } from 'naive-ui/lib/button/styles'
+export {
+  buttonDark,
+  buttonRtl as unstableButtonRtl
+} from 'naive-ui/lib/button/styles'
 export { cardDark, cardRtl as unstableCardRtl } from 'naive-ui/lib/card/styles'
 export { cascaderDark } from 'naive-ui/lib/cascader/styles'
 export { checkboxDark } from 'naive-ui/lib/checkbox/styles'

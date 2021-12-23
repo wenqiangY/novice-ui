@@ -7,6 +7,7 @@ const createDemoPlugin = require('./build/vite-plugin-demo')
  */
 module.exports = {
   root: __dirname,
+  base: process.env.NODE_DOC ? '/novice' : './',
   plugins: createDemoPlugin(),
   resolve: {
     // In production site build, we want to import novice-ui from node_modules
